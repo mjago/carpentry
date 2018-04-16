@@ -1,10 +1,7 @@
 ---
 layout: page
 ---
-
 {{ content }}
-
 <div class="entries-{{ page.entries_layout | default: 'list' }}">
-    {% include posts-paginated.html %}
     {% include posts-limit.html %}
 </div>

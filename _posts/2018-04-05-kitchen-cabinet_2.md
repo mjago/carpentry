@@ -1,9 +1,10 @@
 ---
 title: "Large Kitchen Cabinet"
 excerpt: "Large Pine Kitchen Cabinet with hinged doors."
-image: 
+image:
   path: /images/so-simple-sample-image-6.jpg
   thumbnail: /images/so-simple-sample-image-6-400x200.jpg
+categories: [Kitchen Furniture]
 ---
 
 A large pine kitchen cabinet which will look beautiful in a large kitchen.

@@ -16,13 +16,13 @@
 
 # removed! theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme # added!
-
+email: martyn.jago@btinternet.com
 locale: en-GB
-title: "Burfoot Cabinetry"
-description: "Bespoke Kitchens - Bespoke Fitted Furniture - Custom Free-standing Furniture"
+title: "Burfoot Carpentry"
+description: "Bespoke Kitchens ~ Fitted and Free-standing Furniture"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://mjago.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/so-simple-site-logo.png"
+logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -56,7 +56,7 @@ feed:
 search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
+category_archive_path: "/categories/#"
 # tag_archive_path: "/tags/#"
 
 # Exclude from processing.

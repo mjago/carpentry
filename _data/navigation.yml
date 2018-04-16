@@ -2,8 +2,12 @@
 
 - title: Home
   url: /
-- title: Posts
-  url: /posts/
+- title: Kitchen Furniture
+  url: /categories/#kitchen-furniture
+- title: Fitted Furniture
+  url: /categories/#fitted-furniture
+- title: Free-Standing Furniture
+  url: /categories/#free-standing-furniture
 - title: Contact
   url: /contact/
 # - title: Categories

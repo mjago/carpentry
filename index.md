@@ -5,3 +5,8 @@ show_excerpts: true
 paginate: true
 entries_layout: list
 ---
+<p align="center">
+  <b>Contact Cian on 07712 345678</b><br>
+</p>
+<br>
+<hr>

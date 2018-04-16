@@ -4,6 +4,7 @@ excerpt: "An Alcove unit built to order to fit a corner of a pub. Construction i
 image: 
   path: /images/so-simple-sample-image-3.jpg
   thumbnail: /images/so-simple-sample-image-3-400x200.jpg
+categories: [Fitted Furniture]
 ---
 
 An Alcove unit built to order to fit a corner of a pub. Construction is Pine and Teak.
