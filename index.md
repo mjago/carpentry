@@ -6,7 +6,5 @@ paginate: true
 entries_layout: list
 ---
 <p align="center">
-  <b>Contact Cian on 07712 345678</b><br>
+  <b>Contact Cian<br> on 07712 345678</b><br>
 </p>
-<br>
-<hr>
