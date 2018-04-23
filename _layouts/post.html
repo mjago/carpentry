@@ -4,7 +4,9 @@ layout: default
 
 <main id="main" class="main-content" aria-label="Content">
   <article class="h-entry">
-    {% include page-image.html %}
+    {% if page.image.path %}
+      {% include page-hero-image.html %}
+    {% endif %}
     <div class="page-wrapper">
       <header class="page-header">
         {% assign title = page.title | markdownify | strip_html %}
@@ -23,19 +25,23 @@ layout: default
 
       <div class="page-content">
         <div class="e-content">
-          {{ content }}
-        </div>
 
-        {% if page.share %}
-          {% include social-share.html %}
-        {% endif %}
+{% capture url %}n={{ page.reference }}&p={{ page.title | uri_escape }}{% endcapture %}
+<br/>
+  {{ content }}
+<h4><a href="/carpentry/contact_2/?{{ url }}">Request Info:</a></h4>
+</div>
 
-        {% if site.disqus.shortname %}
-          {% include disqus-comments.html %}
-        {% endif %}
+  {% if page.share %}
+    {% include social-share.html %}
+  {% endif %}
 
-        {% include page-pagination.html %}
-      </div>
-    </div>
+  {% if site.disqus.shortname %}
+    {% include disqus-comments.html %}
+  {% endif %}
+
+  {% include page-pagination.html %}
+  </div>
+  </div>
   </article>
 </main>

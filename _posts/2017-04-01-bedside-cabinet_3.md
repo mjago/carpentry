@@ -6,7 +6,7 @@ image:
   thumbnail: /images/so-simple-sample-image-1-400x200.jpg
   caption: "[Request furthur details:](/contact/)"
 categories: [Free-Standing Furniture]
-reference: 4008
+reference: 4007
 ---
 
 This ius the new piece of furniture.

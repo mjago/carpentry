@@ -11,6 +11,7 @@ en: &DEFAULT_EN
   by: "by"
   min_read: "min read"
   read_more: "Read more&hellip;"
+  further_details: "Request further details&hellip;"
   categories: "Categories"
   tags: "Tags"
   pages_categorized: "Pages filed under"
