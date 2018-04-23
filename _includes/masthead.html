@@ -10,5 +10,11 @@
       <p class="site-description animated fadeIn" itemprop="description">{{ site.description }}</p>
     {% endunless %}
   </div>
-  <br>
+  {% if page.permalink %}
+    {% unless page.permalink == "index.html" %}
+      <br>
+    {% endunless%}
+  {% else %}
+    <br>
+  {% endif %}
 </header><!-- /.masthead -->
