@@ -20,7 +20,7 @@ email: martyn.jago@btinternet.com
 locale: en-GB
 title: "Burfoot Carpentry"
 description: "Bespoke Kitchens ~ Fitted and Free-standing Furniture"
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: /carpentry # the subpath of your site, e.g. "/blog"
 url: https://mjago.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
@@ -57,7 +57,7 @@ search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+#tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
