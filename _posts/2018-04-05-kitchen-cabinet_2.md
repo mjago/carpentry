@@ -4,7 +4,6 @@ excerpt: "Large Pine Kitchen Cabinet with hinged doors."
 image:
   path: /images/so-simple-sample-image-6.jpg
   thumbnail: /images/so-simple-sample-image-6-400x200.jpg
-  caption: "[Request furthur details:](/contact/)"
 categories: [Kitchen Furniture]
 reference: 4003
 ---
