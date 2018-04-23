@@ -9,13 +9,12 @@ Lincoln <br>
 UK <br>
 Tel: 07734 567890
 
-## Please supply your email address and I will reply as soon as possible:
+## Enter your email address and I will reply as soon as possible:
 <!--
      After implementing this contact form make sure
      1. you have defined "email: youremail@email.com" in _config.yml file.
      2. you verify your form on formspree.io.
 -->
-
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="text" name="email" placeholder="Email Address">
